@@ -1,4 +1,6 @@
 # this is a game, where you guess a password until you can open the lock.
+#the results are printed in the terminal together with a little user interface
+
 from random import choice, shuffle, sample, randint
 from difflib import SequenceMatcher
 import os
