@@ -3,7 +3,7 @@ from random import choice, shuffle, sample, randint
 from difflib import SequenceMatcher
 import os
 import time
-from ANSIcolors import colors, fg, bg
+from ANSIcolors import colors, fg, bg # class containing certain ansi color codes.
 
 class Interface:
     def __init__(self, GameLogic_object):
