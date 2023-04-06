@@ -1,5 +1,5 @@
 # this is a class with all ANSI color codes to be imported:
-# /Users/moritzmantel/ACCESS Exercises/ANSIcolors.py
+#it is mainly used together with the GameLogic class from my terminal game.
 
 class colors:
 
